@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="container mx-auto py-2">
       <Text fontSize="xs">
-        {new Date().getFullYear()} &copy; Mimikyu Records
+        {new Date().getFullYear()} Mimikyu Records &copy;
       </Text>
     </footer>
   );
